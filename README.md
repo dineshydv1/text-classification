@@ -24,3 +24,9 @@ http://tc11.cvc.uab.es/datasets/MSRA-TD500_1/task_1_1
 5. Document images:
 http://tc11.cvc.uab.es/datasets/GenderIdentifify2013_1
 
+
+NOTE:
+This repository has few jupyter notebook files. These files might not open directly in github for understandable reasons. One way to open such files is to download to your local system and then open in jupyter. Another quick way is to use nbviewer along with the notebook's github url. For-example, if github url is:
+https://github.com/dineshydv1/text-classification/blob/master/Few%20Steps%20with%20keras.ipynb
+then open this with below url:
+https://nbviewer.jupyter.org/github/dineshydv1/text-classification/blob/master/Few%20Steps%20with%20keras.ipynb
